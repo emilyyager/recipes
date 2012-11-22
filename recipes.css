@@ -16,7 +16,7 @@ body { background-image: url(cork_1.jpg); background-repeat:repeat;color: #222; 
       h2 { font-style:normal; font-size: 150%; line-height: 1.28571429em; margin: 0 0 .35714286em }
       h3 { font-size: 137.5%; line-height: 1.3636em; margin: 0 0 .5em }
       h4,h5,h6 { font-size: 112.5%; line-height: 1.3334em; margin: 0 0 .7778em }
-      ol,ul { list-style-position: outside; padding: 0 }
+      ol,ul { font-family: Georgia, Times, "Times New Roman", serif; list-style-position: outside; padding: 0 }
       ul {list-style-type: none;}
 
       ol ol,ol ul,ul ol,ul ul { margin: 0 0 .75em 2em }
