@@ -9,7 +9,7 @@ body { background-image: url(cork_1.jpg); background-repeat:repeat;color: #222; 
       code { font: normal normal 87.5%/1.71428571em monospace,sans-serif }
       img { display: block; margin: 1.5em auto }
       pre { display: block; font: normal normal 87.5%/1.71428571em monospace,sans-serif; margin: 1.71428571em }
-      h1,h2,h3,h4,h5,h6 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-weight: 400 }
+      h1,h2,h3,h4,h5,h6 { font-family: Georgia, Times, "Times New Roman", serif; font-weight: 400 }
       h1 { font-size: 225%; line-height: 1.3334em; margin: 0 0 .1666em 			
       		page-break-before:always
 			text-align:left}
