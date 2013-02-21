@@ -10,10 +10,16 @@ body { background-image: url(cork_1.jpg); background-repeat:repeat;color: #222; 
       img { display: block; margin: 1.5em auto }
       pre { display: block; font: normal normal 87.5%/1.71428571em monospace,sans-serif; margin: 1.71428571em }
       h1,h2,h3,h4,h5,h6 { font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; font-weight: 400 }
-      h1 { font-size: 225%; line-height: 1.3334em; margin: 0 0 .1666em 			
-      		page-break-before:always
+      h1 {	font-size: 225%; 
+      		line-height: 1.3334em; 
+      		margin: 0 0 .1666em; 			
+      		page-break-before:always;
 			text-align:center}
-      h2 { font-style:normal; font-size: 150%; line-height: 1.28571429em; margin: 0 0 .35714286em }
+
+      h2 {	font-style:normal; 
+      		font-size: 150%; 
+      		line-height: 1.28571429em; 
+      		margin: 0 0 .35714286em }
       h3 { font-size: 137.5%; line-height: 1.3636em; margin: 0 0 .5em }
       h4,h5,h6 { font-size: 112.5%; line-height: 1.3334em; margin: 0 0 .7778em }
       ol,ul {font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; list-style-position: inside; padding: 0 }
